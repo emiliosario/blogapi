@@ -1,6 +1,8 @@
 # blogapi
 
-Group 0 
-  Member:
+## Group Zero
+
+  ### Member/s:
+
     Emilio Yabut Sario 
 
